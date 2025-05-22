@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/wechat.svg</file>
+    </qresource>
+</RCC>
