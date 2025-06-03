@@ -17,6 +17,9 @@ public:
 
 private:
     Ui::LoginDialog *ui;
+
+signals:
+    void showRegisterDialog();
 };
 
 #endif // LOGINDIALOG_H
