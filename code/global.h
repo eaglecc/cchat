@@ -4,6 +4,6 @@
 #include <functional>
 #include "QStyle"
 
-
+extern std::function<void(QWidget*)> repolish;
 
 #endif // GLOBAL_H

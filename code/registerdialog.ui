@@ -51,7 +51,7 @@
              <rect>
               <x>0</x>
               <y>0</y>
-              <width>51</width>
+              <width>365</width>
               <height>16</height>
              </rect>
             </property>
@@ -59,7 +59,7 @@
              <string>错误提示</string>
             </property>
             <property name="alignment">
-             <set>Qt::AlignCenter</set>
+             <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
             </property>
            </widget>
           </widget>
