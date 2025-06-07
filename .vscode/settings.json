@@ -2,6 +2,10 @@
     "files.associations": {
         "qfile": "cpp",
         "qapplication": "cpp",
-        "qstyle": "cpp"
+        "qstyle": "cpp",
+        "qjsonobject": "cpp",
+        "qnetworkaccessmanager": "cpp",
+        "mutex": "cpp",
+        "functional": "cpp"
     }
 }
